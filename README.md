@@ -1,2 +1,0 @@
-# polaksguidetofreedom.github.io
-no
