@@ -27,7 +27,7 @@ hat I have tried but whatever I choose opens blank, I am using google.com as the
     <body>
         <script>
         function create() {
-            var url = document.getElementById('input');
+            var url = document.getElementById('input').value;
             var win = window.open();
             win.document.body.style.margin = '0';
             win.document.body.style.height = '100vh';
